@@ -1,0 +1,1 @@
+csvde -f c:\staging\viking-drive.csv -r "(memberOf=CN=11000 viking drive,OU=distribution lists,OU=exchange,DC=lifetouch,DC=net)"
