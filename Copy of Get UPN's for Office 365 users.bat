@@ -1,1 +1,0 @@
-csvde -f c:\staging\O365\GetUPNforOffice365Users.csv -r "(memberOf=CN=eric-test,OU=distribution lists,OU=exchange,DC=lifetouch,DC=net)" -l "DN, UserPrincipalName"
