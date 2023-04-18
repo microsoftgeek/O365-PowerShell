@@ -1,8 +1,8 @@
-﻿Write-Output "$HR CDI Enterprise Support O365 Migration Script
+﻿Write-Output "$HR Enterprise Support O365 Migration Script
 
 ##########################################################################################
 #
-#                  *CDI Enterprise Support O365 Migration Script* 
+#                  *Enterprise Support O365 Migration Script* 
 #                                                                                
 # Created by Cesar Duran (Jedi Master)                                                                                        
 # Version:1.0                                                                                                                                       
